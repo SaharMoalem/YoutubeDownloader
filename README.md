@@ -1,6 +1,6 @@
 =======
+# Youtube Downloader
 
-YouTube Downloader
 A Python application that allows you to download videos from YouTube in MP4 (video) or MP3 (audio) format. The application provides an interactive interface where you enter a video URL, select your preferred format, choose a download location, and the video is automatically downloaded.
 
 ⚙️ Setup & Run

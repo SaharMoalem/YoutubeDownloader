@@ -16,8 +16,7 @@ python youtube.py
 
 Follow the prompts:
 1. Enter the YouTube video URL
-2. Select download format (1 for MP4, 2 for MP3)
-3. Choose the destination folder
-4. Wait for the download to complete
+2. Choose the destination folder
+3. Wait for the download to complete
 
 =======
